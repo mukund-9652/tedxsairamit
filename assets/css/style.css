@@ -1531,7 +1531,7 @@ a.link-hover:hover {
 }
 .metas {
   font-size: 16px;
-  color: #FF2B06;
+  color: #ffffff;
   margin-bottom: 25px;
 }
 .v-light:not(.no-light) .metas {
@@ -1547,7 +1547,7 @@ a.link-hover:hover {
   font-size: 14px;
   font-weight: 700;
   text-transform: uppercase;
-  color: #FF2B06;
+  color: #ffffff;
   letter-spacing: 2px;
 }
 .v-light:not(.no-light) .metas span {
@@ -2238,7 +2238,7 @@ a:hover {
   opacity: 0.05;
 }
 .site-header .inner-header .main-logo {
-  width: 96px;
+  width: 150px;
   pointer-events: all;
 }
 .site-header .inner-header .main-logo img {
