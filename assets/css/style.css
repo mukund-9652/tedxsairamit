@@ -965,6 +965,14 @@ body.v-light:not(.no-light) {
   height: 100%;
   background: #FF2B06;
 }
+
+@media only screen and (max-width: 575px) {
+  .preloader .title .text-strok, .preloader .title .text-fill {
+    font-size: 5vw;
+    line-height: 15vw;
+  }
+
+}
 .view-demo {
   display: -webkit-box;
   display: -ms-flexbox;
