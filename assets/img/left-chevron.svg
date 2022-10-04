@@ -1,2 +1,10 @@
-<?xml version="1.0"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 455 455" style="enable-background:new 0 0 455 455;" xml:space="preserve" width="512px" height="512px" class=""><g><path d="M0,0v455h455V0H0z M296.683,334.411l-21.248,21.178L147.762,227.5L275.435,99.411l21.248,21.178L190.12,227.5  L296.683,334.411z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#FFFFFF"/></g> </svg>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ff2b06;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="M0,0V512H512V0ZM333.85,376.3l-23.91,23.84L166.27,256,309.94,111.86l23.91,23.84L213.94,256Z" transform="translate(0 0)"/>
+</svg>

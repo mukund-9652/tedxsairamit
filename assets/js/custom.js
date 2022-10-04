@@ -1009,7 +1009,7 @@
                 let $this = $(this);
 
                 $this.justifiedGallery({
-                    rowHeight: 300,
+                    rowHeight: 400,
                     margins: 15,
 
                 });
