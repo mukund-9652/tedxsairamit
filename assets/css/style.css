@@ -4808,9 +4808,9 @@ a:hover {
   border-bottom: 0;
   padding-bottom: 0;
 }
-.our-blog.our-blog-classic .blog-classic-item:nth-of-type(n + 4) {
+/* .our-blog.our-blog-classic .blog-classic-item:nth-of-type(n + 4) {
   margin-top: 50px;
-}
+} */
 @media only screen and (max-width: 767px) {
   .our-blog.our-blog-classic .blog-classic-item:nth-of-type(n + 3) {
     margin-top: 30px;
