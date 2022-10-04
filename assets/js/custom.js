@@ -1010,7 +1010,7 @@
 
                 $this.justifiedGallery({
                     rowHeight: 400,
-                    margins: 15,
+                    margins: 10,
 
                 });
 

@@ -4675,9 +4675,6 @@ a:hover {
   margin-bottom: 35px;
 }
 .work-masonry .filterings-t .filtering-wrap {
-  width: -webkit-max-content;
-  width: -moz-max-content;
-  width: max-content;
   position: relative;
   border-bottom: 2px solid rgba(255, 255, 255, 0.05);
   text-align: center;
@@ -4697,14 +4694,13 @@ a:hover {
   border-bottom: solid 2px rgba(190, 190, 190, 0.27);
 }
 .work-masonry .filterings-t .filtering-wrap .filtering {
-  overflow: auto;
   position: relative;
   margin-bottom: -2px;
 }
 .work-masonry .filterings-t .filtering-wrap .filtering button {
   color: #fff;
   width: auto;
-  margin: 0 20px 0 0;
+  margin: 20px 20px 0 0;
   padding: 0 5px 10px 5px;
   font-size: 14px;
   font-weight: 500;
